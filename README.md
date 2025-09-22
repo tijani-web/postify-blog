@@ -49,17 +49,18 @@ src/
 Getting Started
 Prerequisites
 
+```
 Node.js (>= 18.x recommended)
 
 npm or yarn
-
+```
 Installation
 
-Clone the repository
+```Clone the repository
 
 git clone https://github.com/tijani-web/postify-blog.git
 cd postify
-
+```
 Install dependencies
 
 npm install
@@ -70,10 +71,10 @@ Run the development server
 npm run dev
 
 
-Open the app in your browser
+```Open the app in your browser
 
 http://localhost:5173
-
+```
 📦 Build for Production
 npm run build
 npm run preview
@@ -83,7 +84,7 @@ npm run preview
 This project was completed as part of the **Elevvo Pathways Front-End Web Development Internship**.  
 
 Special thanks to:  
-- Elevvo Pathways [https://www.linkedin.com/company/elevvopaths/] for the opportunity  
+- Elevvo Pathways([https://www.linkedin.com/company/elevvopaths/]) for the opportunity  
 - Unsplash [https://unsplash.com/] / Pixabay [https://pixabay.com/] – free images  
 - Lucide React [https://lucide.dev/] – modern icon set  
 - Vite [https://vitejs.dev/] – build tool
