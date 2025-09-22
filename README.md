@@ -45,8 +45,7 @@ src/
     posts.json        // mock data for 20 posts
   App.js              // entry point -> renders BlogWrapper
   main.jsx            // React DOM render
-
-
+```
 Getting Started
 Prerequisites
 
