@@ -814,6 +814,7 @@ body {
   font-size: clamp(0.7rem, 2.5vw, 0.9rem);
   position: relative;
   overflow: hidden;
+  
 }
 
 .read-more::before {
